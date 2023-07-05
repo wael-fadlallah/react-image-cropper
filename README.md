@@ -1,6 +1,6 @@
 
-# collaborators wanted
-I have barely no time work on improve this project, needs collaborators for project maintenance.
+> Notice
+> This library is a fork from https://github.com/flyfloor/react-image-cropper
 
 ## React Image Cropper
 
